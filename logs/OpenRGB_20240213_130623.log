@@ -1,0 +1,40 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20240213_130623
+====================================================================================================
+
+0     |Info:    Found file: ocodo.orp attempting to validate header
+0     |Info:    Valid v4 profile found for ocodo
+1020  |Info:    Saving detector settings
+1022  |Info:    ------------------------------------------------------
+1022  |Info:    |               Start device detection               |
+1022  |Info:    ------------------------------------------------------
+1022  |Info:    Initializing HID interfaces: Success
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    |             Detecting I2C interfaces               |
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2487 Subsystem: 10DE:1530
+1027  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2487 Subsystem: 10DE:1530
+1028  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2487 Subsystem: 10DE:1530
+1028  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2487 Subsystem: 10DE:1530
+1028  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2487 Subsystem: 10DE:1530
+1028  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2487 Subsystem: 10DE:1530
+1028  |Info:    ------------------------------------------------------
+1028  |Info:    |               Detecting I2C devices                |
+1028  |Info:    ------------------------------------------------------
+1034  |Info:    ------------------------------------------------------
+1034  |Info:    |               Detecting I2C PCI devices            |
+1034  |Info:    ------------------------------------------------------
+1035  |Info:    ------------------------------------------------------
+1035  |Info:    |               Detecting HID devices                |
+1035  |Info:    ------------------------------------------------------
+1118  |Info:    [ASUS TUF GAMING B760M-PLUS] Registering RGB controller
+1118  |Info:    ------------------------------------------------------
+1118  |Info:    |            Detecting libusb HID devices            |
+1118  |Info:    ------------------------------------------------------
+1122  |Info:    ------------------------------------------------------
+1122  |Info:    |              Detecting other devices               |
+1122  |Info:    ------------------------------------------------------
+1127  |Info:    ------------------------------------------------------
+1127  |Info:    |                Detection completed                 |
+1127  |Info:    ------------------------------------------------------

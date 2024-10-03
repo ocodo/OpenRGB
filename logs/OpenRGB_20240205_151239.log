@@ -1,0 +1,101 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20240205_151239
+====================================================================================================
+
+1019  |Info:    ------------------------------------------------------
+1019  |Info:    |               Start device detection               |
+1019  |Info:    ------------------------------------------------------
+1019  |Info:    Initializing HID interfaces: Success
+1024  |Info:    ------------------------------------------------------
+1024  |Info:    |             Detecting I2C interfaces               |
+1024  |Info:    ------------------------------------------------------
+1024  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2487 Subsystem: 10DE:1530
+1024  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2487 Subsystem: 10DE:1530
+1025  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2487 Subsystem: 10DE:1530
+1025  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2487 Subsystem: 10DE:1530
+1025  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2487 Subsystem: 10DE:1530
+1025  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2487 Subsystem: 10DE:1530
+1025  |Info:    ------------------------------------------------------
+1025  |Info:    |               Detecting I2C devices                |
+1025  |Info:    ------------------------------------------------------
+1031  |Info:    ------------------------------------------------------
+1031  |Info:    |               Detecting I2C PCI devices            |
+1031  |Info:    ------------------------------------------------------
+1032  |Info:    ------------------------------------------------------
+1032  |Info:    |               Detecting HID devices                |
+1032  |Info:    ------------------------------------------------------
+1115  |Info:    [ASUS TUF GAMING B760M-PLUS] Registering RGB controller
+1115  |Info:    ------------------------------------------------------
+1115  |Info:    |            Detecting libusb HID devices            |
+1115  |Info:    ------------------------------------------------------
+1115  |Info:    ------------------------------------------------------
+1115  |Info:    |              Detecting other devices               |
+1115  |Info:    ------------------------------------------------------
+1120  |Info:    ------------------------------------------------------
+1120  |Info:    |                Detection completed                 |
+1120  |Info:    ------------------------------------------------------
+596079|Info:    ------------------------------------------------------
+596079|Info:    |               Start device detection               |
+596079|Info:    ------------------------------------------------------
+596079|Info:    Initializing HID interfaces: Success
+596081|Info:    ------------------------------------------------------
+596081|Info:    |             Detecting I2C interfaces               |
+596081|Info:    ------------------------------------------------------
+596081|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2487 Subsystem: 10DE:1530
+596081|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2487 Subsystem: 10DE:1530
+596081|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2487 Subsystem: 10DE:1530
+596081|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2487 Subsystem: 10DE:1530
+596082|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2487 Subsystem: 10DE:1530
+596082|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2487 Subsystem: 10DE:1530
+596082|Info:    ------------------------------------------------------
+596082|Info:    |               Detecting I2C devices                |
+596082|Info:    ------------------------------------------------------
+596082|Info:    ------------------------------------------------------
+596082|Info:    |               Detecting I2C PCI devices            |
+596082|Info:    ------------------------------------------------------
+596083|Info:    ------------------------------------------------------
+596083|Info:    |               Detecting HID devices                |
+596083|Info:    ------------------------------------------------------
+596169|Info:    [ASUS TUF GAMING B760M-PLUS] Registering RGB controller
+596169|Info:    ------------------------------------------------------
+596169|Info:    |            Detecting libusb HID devices            |
+596169|Info:    ------------------------------------------------------
+596169|Info:    ------------------------------------------------------
+596169|Info:    |              Detecting other devices               |
+596169|Info:    ------------------------------------------------------
+596171|Info:    ------------------------------------------------------
+596171|Info:    |                Detection completed                 |
+596171|Info:    ------------------------------------------------------
+656504|Info:    ------------------------------------------------------
+656504|Info:    |               Start device detection               |
+656504|Info:    ------------------------------------------------------
+656504|Info:    Initializing HID interfaces: Success
+656505|Info:    ------------------------------------------------------
+656505|Info:    |             Detecting I2C interfaces               |
+656505|Info:    ------------------------------------------------------
+656505|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2487 Subsystem: 10DE:1530
+656505|Info:    ------------------------------------------------------
+656505|Info:    |               Detecting I2C devices                |
+656505|Info:    ------------------------------------------------------
+656505|Info:    ------------------------------------------------------
+656505|Info:    |               Detecting I2C PCI devices            |
+656505|Info:    ------------------------------------------------------
+656506|Info:    ------------------------------------------------------
+656506|Info:    |               Detecting HID devices                |
+656506|Info:    ------------------------------------------------------
+656589|Info:    [ASUS TUF GAMING B760M-PLUS] Registering RGB controller
+656589|Info:    ------------------------------------------------------
+656589|Info:    |            Detecting libusb HID devices            |
+656589|Info:    ------------------------------------------------------
+656590|Info:    ------------------------------------------------------
+656590|Info:    |              Detecting other devices               |
+656590|Info:    ------------------------------------------------------
+656591|Info:    ------------------------------------------------------
+656591|Info:    |                Detection completed                 |
+656591|Info:    ------------------------------------------------------

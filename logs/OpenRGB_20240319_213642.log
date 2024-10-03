@@ -1,0 +1,38 @@
+    OpenRGB v0.81
+    Commit:  from 
+    Launched: 20240319_213642
+====================================================================================================
+
+0     |Info:    Found file: ocodo.orp attempting to validate header
+0     |Info:    Valid v4 profile found for ocodo
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Start device detection               |
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    Initializing HID interfaces: Success
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |             Detecting I2C interfaces               |
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2705 Subsystem: 1771:10DE
+1011  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2705 Subsystem: 1771:10DE
+1011  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2705 Subsystem: 1771:10DE
+1011  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2705 Subsystem: 1771:10DE
+1011  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2705 Subsystem: 1771:10DE
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |               Detecting I2C devices                |
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |               Detecting I2C PCI devices            |
+1011  |Info:    ------------------------------------------------------
+1012  |Info:    ------------------------------------------------------
+1012  |Info:    |               Detecting HID devices                |
+1012  |Info:    ------------------------------------------------------
+1101  |Info:    [ASUS TUF GAMING B760M-PLUS] Registering RGB controller
+1101  |Info:    ------------------------------------------------------
+1101  |Info:    |            Detecting libusb HID devices            |
+1101  |Info:    ------------------------------------------------------
+1106  |Info:    ------------------------------------------------------
+1106  |Info:    |              Detecting other devices               |
+1106  |Info:    ------------------------------------------------------
+1109  |Info:    ------------------------------------------------------
+1109  |Info:    |                Detection completed                 |
+1109  |Info:    ------------------------------------------------------

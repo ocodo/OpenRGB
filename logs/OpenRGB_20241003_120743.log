@@ -1,0 +1,69 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20241003_120743
+====================================================================================================
+
+0     |Info:    Found file: ocodo.orp attempting to validate header
+0     |Info:    Valid v4 profile found for ocodo
+1017  |Info:    ------------------------------------------------------
+1017  |Info:    |               Start device detection               |
+1017  |Info:    ------------------------------------------------------
+1018  |Info:    Initializing HID interfaces: Success
+1029  |Info:    ------------------------------------------------------
+1029  |Info:    |             Detecting I2C interfaces               |
+1029  |Info:    ------------------------------------------------------
+1030  |Info:    Registering I2C interface: /dev/i2c-3 Device 8086:7A23 Subsystem: 1043:8882
+1030  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:2705 Subsystem: 1771:10DE
+1030  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2705 Subsystem: 1771:10DE
+1030  |Info:    Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+1030  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2705 Subsystem: 1771:10DE
+1030  |Info:    ------------------------------------------------------
+1030  |Info:    |               Detecting I2C devices                |
+1030  |Info:    ------------------------------------------------------
+1321  |Info:    ------------------------------------------------------
+1321  |Info:    |               Detecting I2C PCI devices            |
+1321  |Info:    ------------------------------------------------------
+1323  |Info:    ------------------------------------------------------
+1323  |Info:    |               Detecting HID devices                |
+1323  |Info:    ------------------------------------------------------
+1323  |Info:    ------------------------------------------------------
+1323  |Info:    |            Detecting libusb HID devices            |
+1323  |Info:    ------------------------------------------------------
+1323  |Info:    ------------------------------------------------------
+1323  |Info:    |              Detecting other devices               |
+1323  |Info:    ------------------------------------------------------
+1342  |Info:    ------------------------------------------------------
+1342  |Info:    |                Detection completed                 |
+1342  |Info:    ------------------------------------------------------
+1342  |Dialog:  <h2>WARNING:</h2><p>The OpenRGB udev rules are not installed.</p><p>Most devices will not be available unless running OpenRGB as root.</p><p>If using AppImage, Flatpak, or self-compiled versions of OpenRGB you must install the udev rules manually</p><p>See <a href='https://openrgb.org/udev'>https://openrgb.org/udev</a> to install the udev rules manually</p>
+24654 |Info:    ------------------------------------------------------
+24654 |Info:    |               Start device detection               |
+24654 |Info:    ------------------------------------------------------
+24655 |Info:    Initializing HID interfaces: Success
+24666 |Info:    ------------------------------------------------------
+24666 |Info:    |             Detecting I2C interfaces               |
+24666 |Info:    ------------------------------------------------------
+24666 |Info:    Registering I2C interface: /dev/i2c-3 Device 8086:7A23 Subsystem: 1043:8882
+24666 |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:2705 Subsystem: 1771:10DE
+24666 |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2705 Subsystem: 1771:10DE
+24666 |Info:    Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+24666 |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2705 Subsystem: 1771:10DE
+24666 |Info:    ------------------------------------------------------
+24666 |Info:    |               Detecting I2C devices                |
+24666 |Info:    ------------------------------------------------------
+24951 |Info:    ------------------------------------------------------
+24951 |Info:    |               Detecting I2C PCI devices            |
+24951 |Info:    ------------------------------------------------------
+24953 |Info:    ------------------------------------------------------
+24953 |Info:    |               Detecting HID devices                |
+24953 |Info:    ------------------------------------------------------
+24953 |Info:    ------------------------------------------------------
+24953 |Info:    |            Detecting libusb HID devices            |
+24953 |Info:    ------------------------------------------------------
+24954 |Info:    ------------------------------------------------------
+24954 |Info:    |              Detecting other devices               |
+24954 |Info:    ------------------------------------------------------
+24955 |Info:    ------------------------------------------------------
+24955 |Info:    |                Detection completed                 |
+24955 |Info:    ------------------------------------------------------
+24955 |Dialog:  <h2>WARNING:</h2><p>The OpenRGB udev rules are not installed.</p><p>Most devices will not be available unless running OpenRGB as root.</p><p>If using AppImage, Flatpak, or self-compiled versions of OpenRGB you must install the udev rules manually</p><p>See <a href='https://openrgb.org/udev'>https://openrgb.org/udev</a> to install the udev rules manually</p>
